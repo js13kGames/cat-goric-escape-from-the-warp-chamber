@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - adventure
 post: https://web.archive.org/web/20221207063622/dev.to/felladrin/cat-goric-escape-from-the-warp-chamber-post-mortem-57gc
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
